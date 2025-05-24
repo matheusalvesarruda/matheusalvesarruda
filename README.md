@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus Alves 👋
+### Olá, eu sou o Matheus Arruda 👋
 
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando JavaScript e ReactJS
